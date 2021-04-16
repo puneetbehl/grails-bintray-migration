@@ -1,0 +1,24 @@
+plugins {
+    id 'groovy'
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+    maven {
+        url "https://repo.grails.org/grails/bintray-grails-plugins-releases-local"
+    }
+}
+
+dependencies {
+    implementation 'org.codehaus.groovy:groovy:3.0.7'
+    implementation 'com.google.guava:guava:29.0-jre'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.1'
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.12.1'
+
+    testImplementation 'org.spockframework:spock-core:2.0-groovy-M4'
+}
+
+application {
+    mainClass = 'com.objectcomputing.Application'
+}

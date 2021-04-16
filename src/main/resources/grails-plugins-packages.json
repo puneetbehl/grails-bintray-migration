@@ -1,0 +1,1054 @@
+[
+  {
+    "name": "org.grails.plugins:grails-flyway",
+    "linked": true
+  },
+  {
+    "name": "File-Viewer-Grails-Plugin",
+    "linked": true
+  },
+  {
+    "name": "middleware",
+    "linked": true
+  },
+  {
+    "name": "multitenant",
+    "linked": true
+  },
+  {
+    "name": "grails-pretty-time",
+    "linked": true
+  },
+  {
+    "name": "recaptcha",
+    "linked": true
+  },
+  {
+    "name": "swagger4jaxrs",
+    "linked": true
+  },
+  {
+    "name": "rest-awesome",
+    "linked": true
+  },
+  {
+    "name": "spring-session",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:grails3-cas-client",
+    "linked": true
+  },
+  {
+    "name": "boselecta",
+    "linked": true
+  },
+  {
+    "name": "grails-mailgun",
+    "linked": true
+  },
+  {
+    "name": "jesque",
+    "linked": true
+  },
+  {
+    "name": "rabbitmq",
+    "linked": true
+  },
+  {
+    "name": "cascade-validation",
+    "linked": true
+  },
+  {
+    "name": "grails-spring-websocket",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:database-migration",
+    "linked": true
+  },
+  {
+    "name": "slack",
+    "linked": true
+  },
+  {
+    "name": "ember-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "grails3-cors-interceptor",
+    "linked": true
+  },
+  {
+    "name": "handlebars-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:quartz-monitor",
+    "linked": true
+  },
+  {
+    "name": "grails-gscripting",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:iCalendar",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:grooscript",
+    "linked": true
+  },
+  {
+    "name": "audit-logging",
+    "linked": true
+  },
+  {
+    "name": "ajaxdependancyselection",
+    "linked": true
+  },
+  {
+    "name": "less-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "postgresql-extensions",
+    "linked": true
+  },
+  {
+    "name": "sass-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "jenjir",
+    "linked": true
+  },
+  {
+    "name": "request-tracelog",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:grails-aws",
+    "linked": true
+  },
+  {
+    "name": "grails-hibernate-filter",
+    "linked": true
+  },
+  {
+    "name": "paypal-payments",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:gorm-envers",
+    "linked": true
+  },
+  {
+    "name": "domurtag.plugins:grails-simple-captcha",
+    "linked": true
+  },
+  {
+    "name": "redis",
+    "linked": true
+  },
+  {
+    "name": "bootstrap-framework",
+    "linked": true
+  },
+  {
+    "name": "filterpane",
+    "linked": true
+  },
+  {
+    "name": "cxf",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:feature-switch",
+    "linked": true
+  },
+  {
+    "name": "desirableobjects.grails.plugins:oauth",
+    "linked": true
+  },
+  {
+    "name": "cookie-session",
+    "linked": true
+  },
+  {
+    "name": "cookie",
+    "linked": true
+  },
+  {
+    "name": "wkhtmltopdf",
+    "linked": true
+  },
+  {
+    "name": "novamail",
+    "linked": true
+  },
+  {
+    "name": "coffee-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "browser-detection",
+    "linked": true
+  },
+  {
+    "name": "spring-security-oauth2-provider",
+    "linked": true
+  },
+  {
+    "name": "grails-twilio",
+    "linked": true
+  },
+  {
+    "name": "console",
+    "linked": true
+  },
+  {
+    "name": "grails-json-apis",
+    "linked": true
+  },
+  {
+    "name": "domurtag.plugins:runtime-datasources",
+    "linked": true
+  },
+  {
+    "name": "jssh",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:json-annotations-marshaller",
+    "linked": true
+  },
+  {
+    "name": "i18n-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:jasypt-encryption",
+    "linked": true
+  },
+  {
+    "name": "airbrake-grails",
+    "linked": true
+  },
+  {
+    "name": "asynchronous-mail",
+    "linked": true
+  },
+  {
+    "name": "wschat",
+    "linked": true
+  },
+  {
+    "name": "grails-google-visualization",
+    "linked": true
+  },
+  {
+    "name": "qrcode",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:log-hibernate-stats",
+    "linked": true
+  },
+  {
+    "name": "spring-security-facebook",
+    "linked": true
+  },
+  {
+    "name": "sachinverma.plugins:csv",
+    "linked": true
+  },
+  {
+    "name": "remote-pagination",
+    "linked": true
+  },
+  {
+    "name": "angular-annotate-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "elasticsearch",
+    "linked": true
+  },
+  {
+    "name": "build-test-data",
+    "linked": true
+  },
+  {
+    "name": "cxf-client",
+    "linked": true
+  },
+  {
+    "name": "grails-middleware",
+    "linked": true
+  },
+  {
+    "name": "babel-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:grails-markdown",
+    "linked": true
+  },
+  {
+    "name": "angular-template-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "ckeditor",
+    "linked": true
+  },
+  {
+    "name": "jaxrs-restlet",
+    "linked": true
+  },
+  {
+    "name": "jaxrs-jersey1",
+    "linked": true
+  },
+  {
+    "name": "jaxrs-integration-test",
+    "linked": true
+  },
+  {
+    "name": "jaxrs-core",
+    "linked": true
+  },
+  {
+    "name": "rabbitmq-native",
+    "linked": true
+  },
+  {
+    "name": "spring-security-jaxrs",
+    "linked": true
+  },
+  {
+    "name": "hazelgrails",
+    "linked": true
+  },
+  {
+    "name": "force-ssl",
+    "linked": true
+  },
+  {
+    "name": "karman-grails",
+    "linked": true
+  },
+  {
+    "name": "security-bridge",
+    "linked": true
+  },
+  {
+    "name": "retina-tag",
+    "linked": true
+  },
+  {
+    "name": "asset-pipeline-grails",
+    "linked": true
+  },
+  {
+    "name": "distributed-lock",
+    "linked": true
+  },
+  {
+    "name": "newrelic",
+    "linked": true
+  },
+  {
+    "name": "segment",
+    "linked": true
+  },
+  {
+    "name": "sentry",
+    "linked": true
+  },
+  {
+    "name": "html-cleaner",
+    "linked": true
+  },
+  {
+    "name": "aws-sdk",
+    "linked": true
+  },
+  {
+    "name": "facebook-sdk",
+    "linked": true
+  },
+  {
+    "name": "http-requests-grails",
+    "linked": true
+  },
+  {
+    "name": "seed-me",
+    "linked": true
+  },
+  {
+    "name": "grails3-uploadr",
+    "linked": true
+  },
+  {
+    "name": "mailinglist",
+    "linked": true
+  },
+  {
+    "name": "grails-melody-plugin",
+    "linked": true
+  },
+  {
+    "name": "i18n-javascript",
+    "linked": true
+  },
+  {
+    "name": "compass-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "handlebars-renderer",
+    "linked": true
+  },
+  {
+    "name": "alexa-skills",
+    "linked": true
+  },
+  {
+    "name": "actuator-ui",
+    "linked": true
+  },
+  {
+    "name": "springws",
+    "linked": true
+  },
+  {
+    "name": "grails-vaadin-plugin",
+    "linked": true
+  },
+  {
+    "name": "spring-security-oauth2-facebook",
+    "linked": true
+  },
+  {
+    "name": "exa-datatables",
+    "linked": true
+  },
+  {
+    "name": "schwartz",
+    "linked": true
+  },
+  {
+    "name": "grails-phonenumbers",
+    "linked": true
+  },
+  {
+    "name": "cmeditor",
+    "linked": true
+  },
+  {
+    "name": "selfie",
+    "linked": true
+  },
+  {
+    "name": "spring-security-oauth2-github",
+    "linked": true
+  },
+  {
+    "name": "xss-sanitizer",
+    "linked": true
+  },
+  {
+    "name": "grails-executor",
+    "linked": true
+  },
+  {
+    "name": "version-update",
+    "linked": true
+  },
+  {
+    "name": "grails-sendgrid",
+    "linked": true
+  },
+  {
+    "name": "modninfobip",
+    "linked": true
+  },
+  {
+    "name": "org.grails.plugins:enforcer",
+    "linked": true
+  },
+  {
+    "name": "gravatar",
+    "linked": true
+  },
+  {
+    "name": "distributed-mutex",
+    "linked": true
+  },
+  {
+    "name": "remora",
+    "linked": true
+  },
+  {
+    "name": "i18n-enums",
+    "linked": true
+  },
+  {
+    "name": "view-tools",
+    "linked": true
+  },
+  {
+    "name": "aws-sdk-sqs",
+    "linked": true
+  },
+  {
+    "name": "aws-sdk-sns",
+    "linked": true
+  },
+  {
+    "name": "aws-sdk-ses",
+    "linked": true
+  },
+  {
+    "name": "aws-sdk-s3",
+    "linked": true
+  },
+  {
+    "name": "aws-sdk-kinesis",
+    "linked": true
+  },
+  {
+    "name": "aws-sdk-dynamodb",
+    "linked": true
+  },
+  {
+    "name": "jesque-admin",
+    "linked": true
+  },
+  {
+    "name": "hibernate-search",
+    "linked": true
+  },
+  {
+    "name": "queuekit",
+    "linked": true
+  },
+  {
+    "name": "jaxrs-swagger-ui",
+    "linked": true
+  },
+  {
+    "name": "grails-isomorphic",
+    "linked": true
+  },
+  {
+    "name": "excel-export",
+    "linked": true
+  },
+  {
+    "name": "queuemail",
+    "linked": true
+  },
+  {
+    "name": "grails-hibernate-filter-goodstartgenetics",
+    "linked": true
+  },
+  {
+    "name": "grails-pushover",
+    "linked": true
+  },
+  {
+    "name": "html-cleaner-snimavat",
+    "linked": true
+  },
+  {
+    "name": "recaptcha-spring-security",
+    "linked": true
+  },
+  {
+    "name": "grails-x-frame-options-plugin",
+    "linked": true
+  },
+  {
+    "name": "hazelcast",
+    "linked": true
+  },
+  {
+    "name": "spring-security-saml",
+    "linked": true
+  },
+  {
+    "name": "swagger",
+    "linked": true
+  },
+  {
+    "name": "x-frame-options",
+    "linked": true
+  },
+  {
+    "name": "command",
+    "linked": true
+  },
+  {
+    "name": "twitter-service",
+    "linked": true
+  },
+  {
+    "name": "asset-pipeline-handlebars-renderer",
+    "linked": true
+  },
+  {
+    "name": "mongogee",
+    "linked": true
+  },
+  {
+    "name": "grails-appinfo",
+    "linked": true
+  },
+  {
+    "name": "soft-delete",
+    "linked": true
+  },
+  {
+    "name": "jasper",
+    "linked": true
+  },
+  {
+    "name": "cookie-session-double16",
+    "linked": true
+  },
+  {
+    "name": "audit-trail",
+    "linked": true
+  },
+  {
+    "name": "grails-mailwatcher",
+    "linked": true
+  },
+  {
+    "name": "consulta-nif",
+    "linked": true
+  },
+  {
+    "name": "paystack-grails",
+    "linked": true
+  },
+  {
+    "name": "gorm-tools",
+    "linked": true
+  },
+  {
+    "name": "jasper-reports",
+    "linked": true
+  },
+  {
+    "name": "grails-advanced-config",
+    "linked": true
+  },
+  {
+    "name": "csv",
+    "linked": true
+  },
+  {
+    "name": "quartz-config-scheduler",
+    "linked": true
+  },
+  {
+    "name": "lightningj-grails",
+    "linked": true
+  },
+  {
+    "name": "embedded-postgres",
+    "linked": true
+  },
+  {
+    "name": "spring-security-oauth2-matrixcrawler",
+    "linked": true
+  },
+  {
+    "name": "spring-security-oauth2-google-matrixcrawler",
+    "linked": true
+  },
+  {
+    "name": "cache-guava",
+    "linked": true
+  },
+  {
+    "name": "grails-bootstrap-forms",
+    "linked": true
+  },
+  {
+    "name": "application-config",
+    "linked": true
+  },
+  {
+    "name": "typescript-asset-pipeline",
+    "linked": true
+  },
+  {
+    "name": "schwartz-monitor",
+    "linked": true
+  },
+  {
+    "name": "spring-security-oauth2-outlook",
+    "linked": true
+  },
+  {
+    "name": "fixtures3",
+    "linked": true
+  },
+  {
+    "name": "spring-security-oauth2-vk",
+    "linked": true
+  },
+  {
+    "name": "embedded-mysql",
+    "linked": true
+  },
+  {
+    "name": "daysofweek",
+    "linked": true
+  },
+  {
+    "name": "spring-security-oauth2-ok",
+    "linked": true
+  },
+  {
+    "name": "SimpleSuggestions3",
+    "linked": true
+  },
+  {
+    "name": "grails-shiro",
+    "linked": true
+  },
+  {
+    "name": "spring-security-saml-valentingoebel",
+    "linked": true
+  },
+  {
+    "name": "dynamic-logs-with-rabbit",
+    "linked": true
+  },
+  {
+    "name": "grails-memcached-web-plugin",
+    "linked": true
+  },
+  {
+    "name": "kml",
+    "linked": true
+  },
+  {
+    "name": "timezone-detection",
+    "linked": true
+  },
+  {
+    "name": "http-builder-helper",
+    "linked": false
+  },
+  {
+    "name": "ajax-tags",
+    "linked": false
+  },
+  {
+    "name": "json-annotations-marshaller",
+    "linked": false
+  },
+  {
+    "name": "spring-security-cas",
+    "linked": false
+  },
+  {
+    "name": "spring-security-rest-gorm",
+    "linked": false
+  },
+  {
+    "name": "scaffolding",
+    "linked": false
+  },
+  {
+    "name": "grails-views",
+    "linked": false
+  },
+  {
+    "name": "spring-security-kerberos",
+    "linked": false
+  },
+  {
+    "name": "joda-time",
+    "linked": false
+  },
+  {
+    "name": "org.grails.plugins:geb",
+    "linked": false
+  },
+  {
+    "name": "spring-security-core",
+    "linked": false
+  },
+  {
+    "name": "neo4j",
+    "linked": false
+  },
+  {
+    "name": "asset-pipeline",
+    "linked": false
+  },
+  {
+    "name": "hibernate5",
+    "linked": false
+  },
+  {
+    "name": "ldap-server",
+    "linked": false
+  },
+  {
+    "name": "views-gradle",
+    "linked": false
+  },
+  {
+    "name": "views-markup",
+    "linked": false
+  },
+  {
+    "name": "redis-gorm",
+    "linked": false
+  },
+  {
+    "name": "hibernate4",
+    "linked": false
+  },
+  {
+    "name": "spring-security-acl",
+    "linked": false
+  },
+  {
+    "name": "spring-security-rest-grailscache",
+    "linked": false
+  },
+  {
+    "name": "db-reverse-engineer",
+    "linked": false
+  },
+  {
+    "name": "rendering",
+    "linked": false
+  },
+  {
+    "name": "mail",
+    "linked": false
+  },
+  {
+    "name": "spring-security-shiro",
+    "linked": false
+  },
+  {
+    "name": "clojure",
+    "linked": false
+  },
+  {
+    "name": "spring-security-ldap",
+    "linked": false
+  },
+  {
+    "name": "cassandra",
+    "linked": false
+  },
+  {
+    "name": "bostanio.plugins:airbrake-grails",
+    "linked": false
+  },
+  {
+    "name": "mongodb",
+    "linked": false
+  },
+  {
+    "name": "spring-security-appinfo",
+    "linked": false
+  },
+  {
+    "name": "cache",
+    "linked": false
+  },
+  {
+    "name": "hibernate",
+    "linked": false
+  },
+  {
+    "name": "anthofo.plugins:json-annotations-marshaller",
+    "linked": false
+  },
+  {
+    "name": "jms",
+    "linked": false
+  },
+  {
+    "name": "fields",
+    "linked": false
+  },
+  {
+    "name": "spring-security-ui",
+    "linked": false
+  },
+  {
+    "name": "p6spy-ui",
+    "linked": false
+  },
+  {
+    "name": "export",
+    "linked": false
+  },
+  {
+    "name": "hibernate3",
+    "linked": false
+  },
+  {
+    "name": "quartz",
+    "linked": false
+  },
+  {
+    "name": "spring-security-rest-redis",
+    "linked": false
+  },
+  {
+    "name": "spring-security-rest",
+    "linked": false
+  },
+  {
+    "name": "database-migration",
+    "linked": false
+  },
+  {
+    "name": "geb",
+    "linked": false
+  },
+  {
+    "name": "angular-scaffolding",
+    "linked": false
+  },
+  {
+    "name": "views-json-templates",
+    "linked": false
+  },
+  {
+    "name": "rx-mongodb",
+    "linked": false
+  },
+  {
+    "name": "embedded-mongodb",
+    "linked": false
+  },
+  {
+    "name": "rx-gorm-rest-client",
+    "linked": false
+  },
+  {
+    "name": "rxjava",
+    "linked": false
+  },
+  {
+    "name": "external-config",
+    "linked": false
+  },
+  {
+    "name": "greenmail",
+    "linked": false
+  },
+  {
+    "name": "grails-java8",
+    "linked": false
+  },
+  {
+    "name": "excel-import",
+    "linked": false
+  },
+  {
+    "name": "angular2-scaffolding",
+    "linked": false
+  },
+  {
+    "name": "async",
+    "linked": false
+  },
+  {
+    "name": "events",
+    "linked": false
+  },
+  {
+    "name": "angularjs-scaffolding",
+    "linked": false
+  },
+  {
+    "name": "gsp",
+    "linked": false
+  },
+  {
+    "name": "converters",
+    "linked": false
+  },
+  {
+    "name": "cache-ehcache",
+    "linked": false
+  },
+  {
+    "name": "dropwizard-metrics",
+    "linked": false
+  },
+  {
+    "name": "cache-headers",
+    "linked": false
+  },
+  {
+    "name": "rxjava2",
+    "linked": false
+  },
+  {
+    "name": "gorm-graphql",
+    "linked": false
+  },
+  {
+    "name": "dropwizard-metrics-graphite",
+    "linked": false
+  },
+  {
+    "name": "grails-navigation",
+    "linked": false
+  },
+  {
+    "name": "grails-navigation-core",
+    "linked": false
+  },
+  {
+    "name": "org.grails.plugins:csv",
+    "linked": false
+  },
+  {
+    "name": "gorm-logical-delete",
+    "linked": false
+  },
+  {
+    "name": "spring-security-rest-memcached",
+    "linked": false
+  },
+  {
+    "name": "spring-security-oauth2",
+    "linked": false
+  },
+  {
+    "name": "spring-security-oauth2-google",
+    "linked": false
+  },
+  {
+    "name": "micronaut-beans",
+    "linked": false
+  },
+  {
+    "name": "gorm-graphql-plugin",
+    "linked": false
+  },
+  {
+    "name": "grails-quick-search",
+    "linked": false
+  }
+]
