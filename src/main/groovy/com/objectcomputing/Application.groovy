@@ -6,9 +6,9 @@ class Application {
 
 //        new CsvService().loadPluginsToCsv("/Users/pbehl/Downloads/${System.currentTimeMillis()}-grails-plugins.csv")
 
-//        bintrayService.downloadAllBintrayPackagesInfo('plugins', 'grails-plugins-packages')
-//        bintrayService.downloadAllBintrayPackagesInfo('profiles', 'bintray-grails-profiles-packages')
-        bintrayService.syncPluginsToArtifactory("profiles")
+        final String repo = 'grails-core'
+        bintrayService.downloadAllBintrayPackagesInfo(repo)
+        bintrayService.syncToArtifactory(repo)
         println "Finished >>>>>>>>"
     }
 }

@@ -41,4 +41,8 @@ class BintrayPackage {
     String filesPath(String version) {
         "packages/$owner/$repo/$name/versions/$version/files?include_unpublished=0"
     }
+
+    List<String> getSystem_ids() {
+        this.system_ids ?: ["org.grails:$name".toString()]
+    }
 }
